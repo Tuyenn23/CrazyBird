@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6fe4ed43cf14d2244bffe744b175b54f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 58fb1a6081a187e4bb303c898c6a4e5f, type: 3}
+  - {fileID: 21300000, guid: 9ae63d22e870afb41aedfdf7e96ca09c, type: 3}
+  - {fileID: 21300000, guid: fa5f5e94d63cda3409033cbaa14304c7, type: 3}
+  - {fileID: 21300000, guid: 21bf97a72c59ff94d9c28ab72020e2d6, type: 3}
+  - {fileID: 21300000, guid: f319d7a7059dad347bd1e17bac052cc0, type: 3}
+  - {fileID: 21300000, guid: b42bd6e72f687124c8dd28cb3df2754c, type: 3}
+  - {fileID: 21300000, guid: a740435820e9788439e4a41e4d5ad938, type: 3}
+  - {fileID: 21300000, guid: ce2a41a86db678748ab2a95b987a51b4, type: 3}
+  - {fileID: 21300000, guid: 74a19749f3035f24fbfd3f25274f55bb, type: 3}
+  - {fileID: 21300000, guid: 2bbb288b61ac1684689da7e88b1107ac, type: 3}
+  - {fileID: 21300000, guid: 2da8170c1f9616a45ad176b04a10d880, type: 3}
+  - {fileID: 21300000, guid: f504d5dcd7bd5c74782685c4d743de2c, type: 3}
+  - {fileID: 21300000, guid: dd4759ef57a9a314eb4bcc34d41c9fe0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ic_coin
+  - frame_setting
+  - coin_gem_frame
+  - cooldown_empty
+  - btn_shop
+  - ic_setting
+  - ic_red
+  - ic_SFX
+  - cooldown_fill
+  - ic_music
+  - ic_ads
+  - btn_play
+  - ic_play
+  m_RenderDataMap: {}
+  m_Tag: Main_atlas
+  m_IsVariant: 0

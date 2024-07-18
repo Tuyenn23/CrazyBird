@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_ingame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 224b79f6144df0541b20b1e2d7138452, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: abb854a031d589a4c9111f7cba63bf6b, type: 3}
+  - {fileID: 21300000, guid: 37928d433d924ea4e8dc7e26b9d012e8, type: 3}
+  - {fileID: 21300000, guid: 46854f4386396aa4289bbb0493d6ba04, type: 3}
+  - {fileID: 21300000, guid: c26cba94678fd014e9c3d314de3df817, type: 3}
+  - {fileID: 21300000, guid: 9685ed052716b094dba23021d037ee5e, type: 3}
+  - {fileID: 21300000, guid: 6400fe0570593794db720c98ba2f39b0, type: 3}
+  - {fileID: 21300000, guid: 2a8c71bb694e2c545a76d3414cef50fe, type: 3}
+  - {fileID: 21300000, guid: e416a7cc2e2be424d852ebd353e0bfe9, type: 3}
+  - {fileID: 21300000, guid: ddb1223e6747dd04ca50fd37a399f983, type: 3}
+  - {fileID: 21300000, guid: 8011df7fff55bf341968150d244143d7, type: 3}
+  - {fileID: 21300000, guid: c1bfceff9e623264f9182e795a31238f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ic_back
+  - great
+  - clock
+  - perfect
+  - home
+  - ic_coin
+  - clock_frame
+  - frame_score
+  - coin_gem_frame
+  - hand_tut
+  - good
+  m_RenderDataMap: {}
+  m_Tag: Atlas_ingame
+  m_IsVariant: 0

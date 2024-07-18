@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825b6bee830037244bfa8f5b31b55e8a, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  L_Player:
+  - TypePlayer: 1
+    Icon: {fileID: 21300000, guid: bb2d5f6388fe41f428bd92aa748424f6, type: 3}
+    Coin: 0
+  - TypePlayer: 2
+    Icon: {fileID: 21300000, guid: 77da3f7fed65c0344acce233bc3055d5, type: 3}
+    Coin: 1000
+  - TypePlayer: 3
+    Icon: {fileID: 21300000, guid: d6c8fef03788c164c8b6dc8b74b92cd8, type: 3}
+    Coin: 1000
+  - TypePlayer: 4
+    Icon: {fileID: 21300000, guid: b38a3b0789cef914296ea5f700950fc2, type: 3}
+    Coin: 1000
+  - TypePlayer: 5
+    Icon: {fileID: 21300000, guid: 8aa2481dbfea5cf40a67dbfbccce1a2c, type: 3}
+    Coin: 1000
+  - TypePlayer: 6
+    Icon: {fileID: 21300000, guid: 98c3bfe9d6255c54f999c3f852d99951, type: 3}
+    Coin: 1000
+  - TypePlayer: 7
+    Icon: {fileID: 21300000, guid: 98c3bfe9d6255c54f999c3f852d99951, type: 3}
+    Coin: 1000
+  - TypePlayer: 8
+    Icon: {fileID: 21300000, guid: c495fb5f101f3cf459eafb61b6718523, type: 3}
+    Coin: 1000
+  - TypePlayer: 9
+    Icon: {fileID: 21300000, guid: 1a09564e9310ebe45965da75bffed363, type: 3}
+    Coin: 1000
+  - TypePlayer: 10
+    Icon: {fileID: 21300000, guid: 3a77d474f1f8b1b439a86dba9c0ff435, type: 3}
+    Coin: 1000
+  - TypePlayer: 11
+    Icon: {fileID: 21300000, guid: 4222f433ccc0d8a40acccb6d5a6613d4, type: 3}
+    Coin: 1000
+  - TypePlayer: 12
+    Icon: {fileID: 21300000, guid: 8d44bd5f80b03bd4580aff8b484a64a3, type: 3}
+    Coin: 1000
+  - TypePlayer: 13
+    Icon: {fileID: 21300000, guid: ab8a0a1703ed49b4688623fb996b9169, type: 3}
+    Coin: 1000
+  - TypePlayer: 14
+    Icon: {fileID: 21300000, guid: 6857f3d56b9163e4699a4daf5a266a14, type: 3}
+    Coin: 1000
+  - TypePlayer: 15
+    Icon: {fileID: 21300000, guid: 68876b8bbbe008647a6df75052e063d0, type: 3}
+    Coin: 1000
+  - TypePlayer: 16
+    Icon: {fileID: 21300000, guid: 43c1c2cd805d99b44be363503041f850, type: 3}
+    Coin: 1000
+  - TypePlayer: 17
+    Icon: {fileID: 21300000, guid: ade37232b8174b84ca7728aa7dfd89b6, type: 3}
+    Coin: 1000
+  - TypePlayer: 18
+    Icon: {fileID: 21300000, guid: 263ad2427e87bcc4abe58212c80ba268, type: 3}
+    Coin: 1000

@@ -1,0 +1,1 @@
+[2024-3-29 16:32:46] layer "perfect.png copy": Expected end of input but "c" found.

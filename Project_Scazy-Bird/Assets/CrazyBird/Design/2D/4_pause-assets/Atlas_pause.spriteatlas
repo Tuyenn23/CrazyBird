@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_pause
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 91b0a74fe52c52e4f8af6ff3a44b5503, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0c6a0e925d9c6f04f91828f1e869feca, type: 3}
+  - {fileID: 21300000, guid: dfdb4ba2b88dd804ca720f1997df213c, type: 3}
+  - {fileID: 21300000, guid: 9ff1866628219ea4b9dfc98344059828, type: 3}
+  - {fileID: 21300000, guid: fbe97f29937610b4db2fb34fbe3a6ba0, type: 3}
+  - {fileID: 21300000, guid: 3186068b231d6e440beb0fd29968048e, type: 3}
+  - {fileID: 21300000, guid: ea732b8bd599aee468fe74817031f0cf, type: 3}
+  - {fileID: 21300000, guid: 10922efde1760224d856c51c4d0d0aa0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - coin_ic
+  - border
+  - score_frame
+  - ribbon
+  - pop_up_pause
+  - video_ic
+  - btn_video
+  m_RenderDataMap: {}
+  m_Tag: Atlas_pause
+  m_IsVariant: 0

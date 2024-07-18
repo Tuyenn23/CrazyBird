@@ -1,0 +1,7 @@
+[2024-3-30 09:30:09] layer "border.png": Duplicate path: border.png
+[2024-3-30 09:30:09] layer "border.png": Duplicate path: border.png
+[2024-3-30 09:30:09] layer "border.png": Duplicate path: border.png
+[2024-3-30 09:30:09] layer "border.png": Duplicate path: border.png
+[2024-3-30 09:30:09] layer "border.png": Duplicate path: border.png
+[2024-3-30 09:30:09] layer "btn_video.png": Duplicate path: btn_video.png
+[2024-3-30 09:30:09] layer "btn_coin.png": Duplicate path: btn_coin.png
